@@ -1,0 +1,42 @@
+p {
+    text-align: center;
+    color:red;
+    border: 1px solid rgb(37, 46, 185);
+    font-size: 40px;
+    text-shadow: 3px 3px 1px rgb(216, 41, 187);
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(46, 206, 152);
+    text-shadow: 3px 3px 1px rgb(118, 49, 175);
+}
+li {
+    font-size: 32px;    
+    line-height: 2;
+    text-align: center;
+    letter-spacing: 1px;
+    color: blueviolet;
+    text-shadow: 3px 3px 1px black;
+}
+html {
+    background-color:rgb(198, 223, 107);
+    width: 800px
+    /* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
+    font-size: 15px; 
+    /* Google fonts 输出的 CSS */
+    font-family: 'Open Sans', sans-serif; 
+  }
+a {
+    text-align: center;
+    font-size: 60px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
+button {
+    font-size: 60px;
+    color: rgb(56, 48, 167);
+    text-align: center;
+}
